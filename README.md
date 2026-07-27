@@ -50,16 +50,8 @@ $ currently
 ✔ Open to Software Engineering opportunities
 ```
 
-
-
-
 <br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ysf204&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysf204&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff"/>
-
-<br />
 <br />
 
 ```console
@@ -69,5 +61,6 @@ Simple isn't boring.
 It's intentional.
 ```
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8B0000&section=footer"/>
 
 </div>
