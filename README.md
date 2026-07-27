@@ -1,46 +1,73 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/yousefalbakri/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Yoousef204" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8B0000&section=header"/>
+
+# Yousef Al-Bakri
+
+```console
+$ whoami
+
+Full Stack Developer from Hebron, Palestine.
+
+I build clean, modern web applications,
+solve problems, and keep learning every day.
+```
+
+<a href="https://yousefalbakri.com">Portfolio</a> •
+<a href="https://linkedin.com/in/yousefalbakri">LinkedIn</a> •
+<a href="https://x.com/Yoousef204">X</a>
+
+<br />
+<br />
+
+```console
+$ about
+
+Name      : Yousef Al-Bakri
+Role      : Full Stack Developer
+Location  : Hebron, Palestine
+Education : B.Sc. Computer Science
+
+Focus     : Web Development
+Learning  : Spring Boot, System Design, Clean Architecture
+Goal      : Build useful software and grow as a developer
+```
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,java,spring,mongodb,postgres,redis,docker,git,github,figma,vscode&perline=8"/>
+
+<br />
+<br />
+
+```console
+$ currently
+
+✔ Building personal projects
+✔ Solving coding problems
+✔ Improving my backend skills
+✔ Exploring Spring Boot and system design
+✔ Open to Software Engineering opportunities
+```
+
+
+
+
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ysf204&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysf204&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff"/>
+
+<br />
+<br />
+
+```console
+$ echo "Simple isn't boring."
+
+Simple isn't boring.
+It's intentional.
+```
+
+
 </div>
-
-###
-
-<div align="center">
-  <pre>
-[Yousef Al Bakri]
-Full Stack Developer
-— — — — — — —
-
-[Heborn - Palestine]
-  </pre>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
